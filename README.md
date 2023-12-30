@@ -2,10 +2,8 @@
 
 WhatsApp Chat Analyzer is a tool built with Streamlit that allows you to analyze and visualize your WhatsApp chat data easily. Upload your chat file, and this application will provide insights into the messages, words, media shared, and more!
 
-->**How to Use**
-Clone the repository:
-git clone https://github.com/your-username/whatsapp-chat-analyzer.git
-cd whatsapp-chat-analyzer
+->**Try it Yourself**
+whatsapp-chat-analyzer : https://vansh-whatsapp-chat-analysis-3idkrudgefqihhuhsazy8d.streamlit.app/
 
 ->Install the required dependencies:
 pip install -r requirements.txt
